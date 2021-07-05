@@ -1,0 +1,808 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+ @media (max-width: 575.98px) {
+
+     /* header section start  */
+     nav {
+         padding: 15px 0 !important;
+     }
+
+     #navbarNav ul li a {
+         padding-bottom: 20px;
+         padding-top: 10px;
+     }
+
+     .menu1 li a:hover::after {
+         width: 20%;
+
+     }
+
+     .loggedbtn li {
+         width: 50%;
+         margin-top: 15px;
+     }
+
+     .socialmenu {
+         display: none;
+     }
+
+     .hidemenu {
+         display: block;
+         margin-bottom: 20px;
+     }
+
+     /* header section end  */
+
+     /*==== hero section start ===*/
+     #hero {
+         padding: 75px 0 150px;
+         margin-top: -10px;
+     }
+
+     .hero_content h3 {
+         font-size: 46px;
+     }
+
+     .hero_content h2 {
+         font-size: 30px;
+     }
+
+     .hero_content p {
+         font-size: 16px;
+     }
+
+     /*=== hero section end === */
+
+     /*=== about section start===  */
+     #about {
+         padding: 100px 0 80px;
+     }
+
+     .about_content {
+         text-align: center;
+     }
+
+     .about_content h3 {
+         font-size: 28px;
+     }
+
+     .about_content h2 {
+         font-size: 28px;
+     }
+
+     .about_content p {
+         font-size: 18px;
+     }
+
+     .about_img {
+         text-align: center;
+     }
+
+     .about_img img {
+         width: 75%;
+         margin: 0 auto;
+     }
+
+     /*=== about section end === */
+
+     /*=== charging section start===  */
+     #charger {
+         padding-top: 100px;
+     }
+
+     .charger_content h3 {
+         font-size: 21px;
+     }
+
+     .charger_content h2 {
+         font-size: 26px;
+     }
+
+     .charger_content p {
+         font-size: 17px;
+     }
+
+     .charger_img img {
+         margin-bottom: 0;
+     }
+
+     /*=== charging section end === */
+
+     /*=== section 4 start===  */
+     .sec4_right_content {
+         text-align: center !important;
+     }
+
+     .sec4_right_content h3 {
+         font-size: 25px;
+     }
+
+     .sec4_right_content h2 {
+         font-size: 25px;
+     }
+
+     .sec4_right_content p {
+         font-size: 16px;
+     }
+
+     /*=== section 4 end === */
+
+     /*=== metarial section start  ===*/
+     .metarial_content {
+         text-align: center !important;
+     }
+
+     .metarial_content h3 {
+         font-size: 25px;
+     }
+
+     .metarial_content h2 {
+         font-size: 25px;
+     }
+
+     .metarial_content p {
+         font-size: 16px;
+     }
+
+     /*=== metarial section end === */
+
+     /*=== report section start  ===*/
+     /*=== report section end === */
+
+     /* === app section start === */
+     .app_images img {
+         display: none;
+     }
+
+     .app_content p {
+         font-size: 20px;
+     }
+
+     /* === app section end === */
+
+     /* === features section start === */
+     #features {
+         margin-top: 50px;
+     }
+
+     .single_features {
+         height: 90%;
+     }
+
+     .sec_head h2 {
+         font-size: 36px;
+     }
+
+     /* === features section end === */
+
+     /* === capacity section start === */
+     .capacity_box h2 {
+         font-size: 20px;
+     }
+
+     /* === capacity section end === */
+
+     /* === footer section start === */
+     .top_footer img {
+         margin-top: -45px;
+     }
+
+     .footer_menu ul li a {
+         font-size: 16px;
+     }
+
+     /* === footer section end === */
+
+
+     /* ================================================= */
+     /* hrv page */
+     /* ================================================= */
+
+     /* hero 2 section start  */
+     /* hero 2 section end  */
+
+     /* report section start  */
+     .main_report2 h2 {
+         font-size: 36px;
+     }
+
+     /* report section end  */
+
+     /* health & sports section start */
+     .app_contentright {
+         text-align: left !important;
+     }
+
+     .app_contentleft h2 {
+         font-size: 28px;
+     }
+
+     .app_contentright h2 {
+         font-size: 28px;
+     }
+
+     /* health & sports section end */
+
+     /* works section start  */
+     #workit {
+         padding-top: 70px;
+     }
+
+     .sec_head h2 {
+         font-size: 32px;
+     }
+
+     .sec_head p {
+         font-size: 16px;
+     }
+
+     .top_footer img {
+         width: 75%;
+         margin-top: -330px;
+     }
+
+     /* works section end   */
+
+     /* footer section start  */
+     /* footer section end  */
+
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+ @media (min-width: 576px) and (max-width: 767.98px) {
+
+     /* header section start  */
+     nav {
+         padding: 15px 0 !important;
+     }
+
+     #navbarNav ul li a {
+         padding-bottom: 20px;
+         padding-top: 10px;
+     }
+
+     .menu1 li a:hover::after {
+         width: 20%;
+
+     }
+
+     .loggedbtn li {
+         width: 30%;
+         margin-top: 15px;
+     }
+
+     .socialmenu {
+         display: none;
+     }
+
+     .hidemenu {
+         display: block;
+         margin-bottom: 20px;
+     }
+
+     /* header section end  */
+
+     /*==== hero section start ===*/
+     #hero {
+         padding: 75px 0 150px;
+         margin-top: -10px;
+     }
+
+     .hero_content h3 {
+         font-size: 54px;
+     }
+
+     .hero_content h2 {
+         font-size: 36px;
+     }
+
+     .hero_content p {
+         font-size: 16px;
+     }
+
+     /*=== hero section end === */
+
+     /*=== about section start===  */
+     .about_content {
+         text-align: center;
+     }
+
+     .about_img {
+         text-align: center;
+     }
+
+     .about_img img {
+         width: 75%;
+         margin: 0 auto;
+     }
+
+     /*=== about section end === */
+
+     /*=== charging section start===  */
+     #charger {
+         padding-top: 100px;
+     }
+
+     .charger_content h3 {
+         font-size: 38px;
+     }
+
+     .charger_img img {
+         margin-bottom: 0px;
+     }
+
+     /*=== charging section end === */
+
+     /*=== section 4 start===  */
+     .sec4_right_content {
+         text-align: center !important;
+     }
+
+     .sec4_right_content h3 {
+         font-size: 36px;
+     }
+
+     .sec4_right_content h2 {
+         font-size: 36px;
+     }
+
+     .sec4_right_content p {
+         font-size: 16px;
+         color: white;
+         margin-top: 30px;
+     }
+
+     /*=== section 4 end === */
+
+     /*=== metarial section start  ===*/
+     .metarial_content {
+         text-align: center !important;
+     }
+
+     .metarial_content h3 {
+         font-size: 26px;
+     }
+
+     .metarial_content h2 {
+         font-size: 26px;
+     }
+
+     .metarial_content p {
+         font-size: 16px;
+         margin-top: 30px;
+     }
+
+     .metarial_img img {
+         width: 75%;
+         margin: 0 auto;
+     }
+
+     /*=== metarial section end === */
+
+     /*=== report section start  ===*/
+     /*=== report section end === */
+
+     /* === app section start === */
+     .app_images img {
+         display: none;
+     }
+
+     /* === app section end === */
+
+     /* === features section start === */
+     .single_features {
+         height: 90%;
+     }
+
+     /* === features section end === */
+
+     /* === capacity section start === */
+     .capacity_box h2 {
+         font-size: 36px;
+     }
+
+     /* === capacity section end === */
+
+     /* === footer section start === */
+     .top_footer img {
+         margin-top: -75px;
+     }
+
+     .footer_menu ul li {
+         padding: 5px 10px;
+     }
+
+     .footer_menu ul li a {
+         font-size: 16px;
+     }
+
+     /* === footer section end === */
+
+     /* ================================================= */
+     /* hrv page */
+     /* ================================================= */
+
+     /* hero 2 section start  */
+     /* hero 2 section end  */
+
+     /* report section start  */
+     /* report section end  */
+
+     /* health & sports section start */
+     .app_contentright {
+         text-align: left !important;
+     }
+
+     /* health & sports section end */
+
+     /* works section start  */
+     /* works section end   */
+
+     /* footer section start  */
+     .top_footer2 img {
+         width: 50%;
+         margin-top: -380px;
+     }
+
+     /* footer section end  */
+
+
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+     /* header section start  */
+     nav {
+         padding: 15px 0 !important;
+     }
+
+     #navbarNav ul li a {
+         padding-bottom: 20px;
+         padding-top: 10px;
+     }
+
+     .menu1 li a:hover::after {
+         width: 20%;
+
+     }
+
+     .loggedbtn li {
+         width: 30%;
+         margin-top: 15px;
+     }
+
+     .socialmenu {
+         display: none;
+     }
+
+     .hidemenu {
+         display: block;
+         margin-bottom: 20px;
+     }
+
+     /* header section end  */
+
+     /*==== hero section start ===*/
+     #hero {
+         padding: 75px 0 150px;
+         margin-top: -10px;
+     }
+
+     .hero_content h3 {
+         font-size: 50px;
+     }
+
+     .hero_content h2 {
+         font-size: 30px;
+     }
+
+     .hero_content p {
+         font-size: 16px;
+     }
+
+     /*=== hero section end === */
+
+     /*=== about section start===  */
+     .about_content h3 {
+         font-size: 34px;
+     }
+
+     .about_content h2 {
+         font-size: 34px;
+     }
+
+     .about_content p {
+         font-size: 16px;
+     }
+
+     /*=== about section end === */
+
+     /*=== charging section start===  */
+     .charger_img {
+         text-align: center;
+     }
+
+     .charger_img img {
+         width: 50%;
+         margin: 0 auto;
+         margin-bottom: 100px;
+     }
+
+     /*=== charging section end === */
+
+     /*=== section 4 start===  */
+     .sec4_right_content h3 {
+         font-size: 36px;
+     }
+
+     .sec4_right_content h2 {
+         font-size: 36px;
+     }
+
+     .sec4_right_content p {
+         font-size: 16px;
+         color: white;
+         margin-top: 30px;
+     }
+
+     /*=== section 4 end === */
+
+     /*=== metarial section start  ===*/
+     .metarial_content h3 {
+         font-size: 36px;
+     }
+
+     .metarial_content h2 {
+         font-size: 36px;
+     }
+
+     .metarial_content p {
+         font-size: 16px;
+         color: white;
+         margin-top: 30px;
+     }
+
+     /*=== metarial section end === */
+
+     /*=== report section start  ===*/
+     /*=== report section end === */
+
+     /* === app section start === */
+     .app_content p {
+         font-size: 18px;
+     }
+
+     /* === app section end === */
+
+     /* === features section start === */
+     /* === features section end === */
+
+     /* === capacity section start === */
+     /* === capacity section end === */
+
+     /* === footer section start === */
+     .top_footer img {
+         margin-top: -100px;
+     }
+
+     .footer_menu ul li a {
+         font-size: 16px;
+     }
+
+     /* === footer section end === */
+
+     /* ================================================= */
+     /* hrv page */
+     /* ================================================= */
+
+     /* hero 2 section start  */
+     /* hero 2 section end  */
+
+     /* report section start  */
+     /* report section end  */
+
+     /* health & sports section start */
+     /* health & sports section end */
+
+     /* works section start  */
+     /* works section end   */
+
+     /* footer section start  */
+     .top_footer2 img {
+         margin-top: -350px;
+     }
+
+     #workit {
+         padding-top: 100px;
+     }
+
+     /* footer section end  */
+
+
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+     /* header section start  */
+     div#navbarNav {
+         margin-top: 20px;
+     }
+
+     #navbarNav ul li a {
+         font-size: 16px;
+         padding-bottom: 15px;
+     }
+
+     .loggedbtn li {
+         margin-top: 0;
+         font-size: 16px;
+     }
+
+     .socialmenu li {
+         padding-bottom: 15px;
+     }
+
+     .loggedbtn {
+         text-align: center;
+         margin: 0 auto;
+     }
+
+     /* header section end  */
+
+     /*==== hero section start ===*/
+     #hero {
+         padding: 75px 0 150px;
+         margin-top: -10px;
+     }
+
+     .hero_content h3 {
+         font-size: 70px;
+     }
+
+     .hero_content h2 {
+         font-size: 40px;
+     }
+
+     .hero_content p {
+         font-size: 20px;
+     }
+
+     /*=== hero section end === */
+
+     /*=== about section start===  */
+     .about_content {}
+
+     .about_content h3 {
+         font-size: 40px;
+     }
+
+     .about_content h2 {
+         font-size: 40px;
+     }
+
+     .about_content p {
+         font-size: 18px;
+     }
+
+     /*=== about section end === */
+
+     /*=== charging section start===  */
+     /*=== charging section end === */
+
+     /*=== section 4 start===  */
+     .sec4_right_content h3 {
+         font-size: 36px;
+     }
+
+     .sec4_right_content h2 {
+         font-size: 36px;
+     }
+
+     .sec4_right_content p {
+         font-size: 16px;
+         color: white;
+         margin-top: 30px;
+     }
+
+     /*=== section 4 end === */
+
+     /*=== metarial section start  ===*/
+     .metarial_content h3 {
+         font-size: 36px;
+     }
+
+     .metarial_content h2 {
+         font-size: 36px;
+     }
+
+     .metarial_content p {
+         font-size: 16px;
+         margin-top: 30px;
+     }
+
+     .metarial_img img {
+         width: 75%;
+         margin: 0 auto;
+     }
+
+     /*=== metarial section end === */
+
+     /*=== report section start  ===*/
+     /*=== report section end === */
+
+     /* === app section start === */
+     /* === app section end === */
+
+     /* === features section start === */
+     #features {
+         margin-top: 100px;
+     }
+
+     /* === features section end === */
+
+     /* === capacity section start === */
+     /* === capacity section end === */
+
+     /* === footer section start === */
+     .footer_menu ul li a {
+         font-size: 16px;
+     }
+
+     /* === footer section end === */
+
+     /* ================================================= */
+     /* hrv page */
+     /* ================================================= */
+
+     /* hero 2 section start  */
+     /* hero 2 section end  */
+
+     /* report section start  */
+     /* report section end  */
+
+     /* health & sports section start */
+     /* health & sports section end */
+
+     /* works section start  */
+     /* works section end   */
+
+     /* footer section start  */
+     /* footer section end  */
+
+ }
+
+ /*Extra  large devices (large desktops, 1200px and up)*/
+ @media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+ /*Extra extra large devices (large desktops, 1200px and up)*/
+ @media (min-width: 1400px) {
+    .hero_content {
+        padding-bottom: 200px;
+        padding-top: 250px;
+    }
+     #features {
+         margin-top: 300px;
+     }
+ }
+ @media (min-width: 1900px) and (max-width: 2200.98px) {
+    .charger_img img{
+        margin-bottom: 200px;
+    }
+ }
+
+
+
+ @media (min-width:2201px) and (max-width: 2560px) {
+    .charger_img img{
+        margin-bottom: 250px;
+    }
+ }
+
+
+
+
+
+
+ 
